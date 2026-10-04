@@ -1,5 +1,10 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """
-Nama   : Richard Julian Makaba (NIM 2409106078)
+Nama File : snmp_modul.py
+Tujuan    : Mengambil nilai sysName (OID 1.3.6.1.2.1.1.5.0) memakai SNMPv2c
+            dengan community string comm_<kode_cabang> (PySNMP).
+Pembuat   : Richard Julian Makaba (NIM 2409106078)
 """
 
 import asyncio

@@ -1,5 +1,10 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """
-Nama   : Richard Julian Makaba (NIM 2409106078)
+Nama File : netconf_modul.py
+Tujuan    : Membangun (bukan menulis manual) pesan XML <rpc><edit-config>
+            NETCONF untuk membuat VLAN dengan ID = kode_cabang.
+Pembuat   : Richard Julian Makaba (NIM 2409106078)
 """
 
 import xml.etree.ElementTree as ET

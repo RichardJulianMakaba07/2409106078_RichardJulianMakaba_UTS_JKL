@@ -1,5 +1,10 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """
-Nama   : Richard Julian Makaba (NIM 2409106078)
+Nama File : main.py
+Tujuan    : Mengintegrasikan semua modul (identitas, SSH, SNMP, NETCONF,
+            telemetry) dan mencetak satu laporan akhir gabungan.
+Pembuat   : Richard Julian Makaba (NIM 2409106078)
 """
 
 import identitas

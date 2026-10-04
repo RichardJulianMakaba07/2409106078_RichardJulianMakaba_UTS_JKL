@@ -1,5 +1,10 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """
-Nama   : Richard Julian Makaba (NIM 2409106078)
+Nama File : identitas.py
+Tujuan    : Menyimpan identitas cabang (NIM, nama, kode cabang) dan
+            function pembuat ID perangkat untuk dipakai modul lain.
+Pembuat   : Richard Julian Makaba (NIM 2409106078)
 """
 
 nim = "2409106078"

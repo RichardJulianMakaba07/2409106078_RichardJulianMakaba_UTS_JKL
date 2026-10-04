@@ -1,5 +1,10 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """
-Nama   : Richard Julian Makaba (NIM 2409106078)
+Nama File : ssh_modul.py
+Tujuan    : Login ke VM/laptop via SSH (Paramiko) memakai username
+            admin_<kode_cabang>, lalu menjalankan perintah diagnostik.
+Pembuat   : Richard Julian Makaba (NIM 2409106078)
 """
 
 import getpass

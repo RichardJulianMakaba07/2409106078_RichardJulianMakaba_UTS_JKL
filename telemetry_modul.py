@@ -1,5 +1,10 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """
-Nama   : Richard Julian Makaba (NIM 2409106078)
+Nama File : telemetry_modul.py
+Tujuan    : Menganalisis data SAMPEL telemetry (menyerupai hasil decode GPB
+            di collector) dan mengklasifikasikan cpuUsage per sampel.
+Pembuat   : Richard Julian Makaba (NIM 2409106078)
 """
 
 from identitas import buat_id_perangkat, nim
